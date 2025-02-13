@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "LESSON NAME"
-copyright = "2020, The contributors"
+copyright = "2025 Norwegian Ai Cloud"
 author = "The contributors"
 github_user = "coderefinery"
 github_repo_name = ""  # auto-detected from dirname if blank
