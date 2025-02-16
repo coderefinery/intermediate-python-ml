@@ -1,4 +1,4 @@
-# Data Analysis for Bioinformatics: NumPy and Pandasas
+# Data Analysis for Bioinformatics: NumPy and Pandas
 
 ## Who is the course for?
 
