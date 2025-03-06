@@ -1,4 +1,4 @@
-# Data Analysis for Bioinformatics: NumPy and Pandasas
+# Data Analysis for Bioinformatics: NumPy and Pandas
 
 :::{prereq}
 
@@ -13,8 +13,6 @@
   * Basic genomics terminology
   * Familiarity with common bioinformatics file formats (FASTA, FASTQ)
 :::
-
-(learner-personas)=
 
 ## Who is the course for?
 
@@ -35,18 +33,23 @@ By the end of this course, students will be able to effectively utilize NumPy an
    * Understand the relationship between Pandas and NumPy, and effectively use Pandas Series and DataFrames for data analysis
    * Perform advanced data manipulation techniques including indexing, filtering, handling missing data, and combining DataFrames through merging and concatenation
 
+### Overall time schedule
+
 ```{csv-table}
 :delim: ;
 :widths: auto
 
-X min ; {doc}`filename`
+Numpy for Bioinformatics ; 3 Hours
+Pandas for Bioinformatics ; 3 Hours 
 ```
 
 ```{toctree}
 :caption: The lesson
 :maxdepth: 1
 
-episode.md
+0.Numpy_for_bioinformatics.md
+1.numpy_intro.md
+2.NumPy_Data_Types.md
 ```
 
 ```{toctree}
@@ -58,3 +61,7 @@ guide
 ```
 
 ## Credits
+
+* [BioNT - The Bio Network for Training](https://biont-training.eu/)
+* [Norwegian AI Cloud](https://www.naic.no)
+* [Scientific Computing Services, Department Informatics, University of Oslo](https://www.usit.uio.no/english/about/organisation/rde/scs/)
