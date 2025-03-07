@@ -50,6 +50,9 @@ Pandas for Bioinformatics ; 3 Hours
 0.Numpy_for_bioinformatics.md
 1.numpy_intro.md
 2.NumPy_Data_Types.md
+3.Indexing_and_Slicing.md
+4.Advance_indexing_filtering.md
+
 ```
 
 ```{toctree}

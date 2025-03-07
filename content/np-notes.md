@@ -21,7 +21,6 @@
   * Vectorization allows operations on entire arrays without loops
   * Rich set of mathematical functions and operations
 
-
 ## Creating NumPy Arrays (Hands-on)
 
 ### 1D Arrays from lists
@@ -96,10 +95,10 @@ print(f"Data type: {array_2d.dtype}")  # int64
 
 ### Key NumPy Data Types for Bioinformatics
 
-| NumPy Type   | Description                       | Use Case                        |
+| NumPy Type   | Description                       | Use Case                         |
 |--------------|-----------------------------------|----------------------------------|
 | `np.int64`   | 64-bit signed integer             | Counts, indices                  |
-| `np.float64` | Double-precision float            | Measurement values, probabilities |
+| `np.float64` | Double-precision float            | Measurement values, probabilities|
 | `np.bool_`   | Boolean (True/False)              | Filtering, masking               |
 | `np.string_` | Fixed-length string               | Sequence data, labels            |
 | `np.uint8`   | 8-bit unsigned integer (0-255)    | Compact storage for small values |
@@ -353,20 +352,23 @@ print(f"GC content: {gc_content:.1f}%")  # GC content: 50.0%
 
 ## Workshop Summary
 
-### Key NumPy Features for Bioinformatics:
-- Efficient storage and manipulation of large datasets
-- Fast vectorized operations
-- Boolean indexing for sequence analysis
-- Aggregation and statistics calculation
-- Integration with other scientific libraries
+### Key NumPy Features for Bioinformatics
 
-### Next Steps:
-- Explore Pandas for structured biological data
-- Learn Matplotlib/Seaborn for visualization
-- Apply NumPy to your specific bioinformatics workflows
-- Check more advanced NumPy features in the documentation
+* Efficient storage and manipulation of large datasets
+* Fast vectorized operations
+* Boolean indexing for sequence analysis
+* Aggregation and statistics calculation
+* Integration with other scientific libraries
 
-## Additional Resources:
-- [NumPy Documentation](https://numpy.org/doc/stable/)
-- [NumPy for Bioinformatics Tutorials](https://www.tutorialspoint.com/biopython/index.htm)
-- [Python for Biologists](https://pythonforbiologists.com/)
+### Next Steps
+
+* Explore Pandas for structured biological data
+* Learn Matplotlib/Seaborn for visualization
+* Apply NumPy to your specific bioinformatics workflows
+* Check more advanced NumPy features in the documentation
+
+## Additional Resources
+
+* [NumPy Documentation](https://numpy.org/doc/stable/)
+* [NumPy for Bioinformatics Tutorials](https://www.tutorialspoint.com/biopython/index.htm)
+* [Python for Biologists](https://pythonforbiologists.com/)

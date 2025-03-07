@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Analysis for Bioinformatics: NumPy and Pandasas"
+project = "Data Analysis for Bioinformatics: NumPy and Pandas"
 copyright = "2025 Norwegian Ai Cloud"
 author = "The contributors"
 github_user = "coderefinery"
