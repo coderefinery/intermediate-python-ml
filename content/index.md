@@ -52,6 +52,7 @@ Pandas for Bioinformatics ; 3 Hours
 2.NumPy_Data_Types.md
 3.Indexing_and_Slicing.md
 4.Advance_indexing_filtering.md
+5.Essential_array_operations.md
 
 ```
 
