@@ -54,6 +54,15 @@ Pandas for Bioinformatics ; 3 Hours
 4.Advance_indexing_filtering.md
 5.Essential_array_operations.md
 6.Vectorized_Operations_in_NumPy.md
+7.Pandas_lesson plan.md
+8.Introduction_to_pandas.md
+9.Pandas_data_import_export.md
+10.DataFrame_Manipulation.md
+11.Pandas_indexing_slicing.md
+12.Handling_Missing_Data.md
+13.Merging_DataFrames.md
+14.Pandas_summary_stats.md
+15.Advanced_Data_Transformation.md
 
 ```
 
