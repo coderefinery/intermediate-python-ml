@@ -1,4 +1,4 @@
-# Data Analysis for Bioinformatics: NumPy and Pandas
+# NumPy and Pandas fundamentals for handling biological datasets
 
 :::{prereq}
 
@@ -8,8 +8,6 @@
   * File handling in Python
   * Experience with Python IDEs and Jupyter notebooks
 * Basic Biology Knowledge
-  * Fundamental concepts in molecular biology
-  * Understanding of DNA, RNA, and protein structure
   * Basic genomics terminology
   * Familiarity with common bioinformatics file formats (FASTA, FASTQ)
 :::
@@ -44,7 +42,7 @@ Pandas for Bioinformatics ; 3 Hours
 ```
 
 ```{toctree}
-:caption: The lesson
+:caption: Numpy for handling biological datasets 
 :maxdepth: 1
 
 0.Numpy_for_bioinformatics.md
@@ -54,6 +52,12 @@ Pandas for Bioinformatics ; 3 Hours
 4.Advance_indexing_filtering.md
 5.Essential_array_operations.md
 6.Vectorized_Operations_in_NumPy.md
+```
+
+```{toctree}
+:caption: Pandas for handling biological datasets 
+:maxdepth: 1
+
 7.Pandas_lesson plan.md
 8.Introduction_to_pandas.md
 9.Pandas_data_import_export.md
@@ -63,7 +67,6 @@ Pandas for Bioinformatics ; 3 Hours
 13.Merging_DataFrames.md
 14.Pandas_summary_stats.md
 15.Advanced_Data_Transformation.md
-
 ```
 
 ```{toctree}
