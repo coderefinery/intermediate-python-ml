@@ -66,6 +66,7 @@ Pandas for Bioinformatics ; 3 Hours
 12.Handling_Missing_Data.md
 13.Merging_DataFrames.md
 14.Pandas_summary_stats.md
+15.Hands-on_expression_count_analysis.ipynb
 ```
 
 ```{toctree}
