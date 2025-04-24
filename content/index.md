@@ -74,7 +74,6 @@ Pandas for Bioinformatics ; 3 Hours
 :maxdepth: 1
 
 quick-reference
-guide
 ```
 
 ## Credits
