@@ -69,11 +69,38 @@ Pandas for Bioinformatics ; 3 Hours
 15.Hands-on_expression_count_analysis.ipynb
 ```
 
-```{toctree}
-:caption: Reference
-:maxdepth: 1
+## Datasets
 
-quick-reference
+* [Download Test dataset 1: Sample_group_info.csv](test_data/Sample_group_info.csv)
+
+* [count_matrix.csv](test_data/count_matrix.csv)
+
+## Dependencies
+
+* All Python dependencies are listed in the `requirements.txt` file
+* [Download requirements.txt](test_data/requirements.txt)
+
+### Setup Python environment
+
+1. Install Python3
+2. Create a work-folder for the course exercises and hands-on sessions (e.g. `biont_module1`)
+3. Move the `biont_module1` workfolder and download the `requirements.txt` file
+4. Follow steps below
+
+```bash
+# work-folder: ~/playground/biont_module1
+
+# Create Python environment (use python v.3.11 or above)
+python -m venv venv
+
+# Activate Python environment
+. venv/bin/activate
+
+# Upgrade pip (not mandatory)
+pip install --upgrade pip
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ## Credits
