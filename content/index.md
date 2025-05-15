@@ -94,7 +94,7 @@ Pandas for Bioinformatics ; 3 Hours
 python -m venv venv
 
 # Activate Python environment
-. venv/bin/activate
+source venv/bin/activate
 
 # Upgrade pip (not mandatory)
 pip install --upgrade pip
