@@ -52,6 +52,7 @@ Pandas for Bioinformatics ; 3 Hours
 4.Advance_indexing_filtering.md
 5.Essential_array_operations.md
 6.Vectorized_Operations_in_NumPy.md
+6.1.Numpy_hands_on.ipynb
 ```
 
 ```{toctree}
